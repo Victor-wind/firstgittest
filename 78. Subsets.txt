@@ -13,6 +13,7 @@ public:
                 tw on web
 				on local 3
 				on local 2
+				latest 
 				
             }
         }
