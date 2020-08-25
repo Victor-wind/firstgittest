@@ -15,6 +15,7 @@ public:
 				on local 2
 				latest 
 				test branch merge
+				test branch merge 2
             }
         }
         
